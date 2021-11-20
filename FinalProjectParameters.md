@@ -1,0 +1,55 @@
+## Final Project Parameters
+
+CTF on Hack The Box
+
+1. Each student is assigned three boxes for penetration:
+    * One = Easy
+    * Two = Medium
+    * Three = Medium
+
+2. Any captured flags are expected to be demonstrated during the final presentation.
+3. Demonstrations and Offensive Security Report are to include each assigned box regardless of completion - Must have tested all three boxes
+4. Refer to README.md and [Codefellows 401 class 45 final project guidelines](https://github.com/codefellows/seattle-ops-cyber-401n1/blob/main/class-45/project-guidelines.md)
+
+## Methodology
+
+For execution of pentesting on the final:
+1. Enumerate the network
+
+    A. Port Scanning
+    * List open ports
+    * List all services on the port
+    * Use multiple tools (cross-reference) to generate the most detailed services per port and vulnerabilities available
+
+2. Vulnerability Scan 
+    * Nessus
+    * NSE
+    * Banner grabbing/service fingerprinting
+
+3. Research all the exploits
+    * Detail exploits available
+
+4. Exploits
+
+5. Shell Access
+
+6. Privilege Escalation 
+
+7. Post-Exploitation
+
+I understand this is a working document to be updated as my methodology grows during the course of this assignment. I am to draw on all of the experience of this course utilizing any tools available with the boundaries of the project guidelines, maintaining ethical practices, and using local tooling when possible.
+
+References:
+
+D3fend: https://d3fend.mitre.org/
+
+Att&ck: https://attack.mitre.org/
+
+CVE:    https://cve.mitre.org/
+
+CWE:    https://cwe.mitre.org/
+
+CVSS:   https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator#
+
+ExploitDB:  https://www.exploit-db.com/
+
