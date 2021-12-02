@@ -42,7 +42,7 @@ For execution of pentesting on the final:
 This is a working document to be updated as my methodology grows during the course of this assignment. I am to draw on all of the experience of this course utilizing any tools available with the boundaries of the project guidelines, maintaining ethical practices, and using native tools when possible.
 
 ## Deliverables
-[Dogma Offensive Security Report](https://docs.google.com/document/d/1cQ05vCvQ7Gxd-UCuVKeRkljSwl2jMaKElb-pcOf4gZs/edit?usp=sharing/)
+[Dogma Offensive Security Report](https://docs.google.com/document/d/1P5NcJbQKQJPbGhDz9mqId8wQtPlTjSdYGPmi8wHWwIQ/edit?usp=sharing/)
 
 [Presentation Slide Deck](https://docs.google.com/presentation/d/1GMmGXPB6MPp8cYpo7_xwgagSszbWLAPrpKVweNFzdWw/edit?usp=sharing/)
 
