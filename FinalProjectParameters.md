@@ -14,9 +14,7 @@ CTF on Hack The Box
 ## Methodology
 
 For execution of pentesting on the final:
-1. Enumerate the network
-
-    A. Port Scanning
+1. Network Enumeration
     * List open ports
     * List all services on the port
     * Use multiple tools (cross-reference) to generate the most detailed services per port and vulnerabilities available
@@ -30,22 +28,28 @@ For execution of pentesting on the final:
     * Detail exploits available
 
 4. Exploits
+    * Map exploits to CVSS, CVE, CWE
 
 5. Shell Access
+    * Prepare to demonstrate
 
 6. Privilege Escalation 
+    *Prepare to demonstrate
 
 7. Post-Exploitation
+    * If applicable 
 
-I understand this is a working document to be updated as my methodology grows during the course of this assignment. I am to draw on all of the experience of this course utilizing any tools available with the boundaries of the project guidelines, maintaining ethical practices, and using local tooling when possible.
+This is a working document to be updated as my methodology grows during the course of this assignment. I am to draw on all of the experience of this course utilizing any tools available with the boundaries of the project guidelines, maintaining ethical practices, and using native tools when possible.
 
 ## Deliverables
-    [Dogma Offensive Security Report](https://docs.google.com/document/d/1cQ05vCvQ7Gxd-UCuVKeRkljSwl2jMaKElb-pcOf4gZs/edit?usp=sharing)
-    [Presentation Slide Deck](https://docs.google.com/presentation/d/1GMmGXPB6MPp8cYpo7_xwgagSszbWLAPrpKVweNFzdWw/edit?usp=sharing)
-    [Github Repository for Script](https://github.com/benpodawiltz/OffensiveSecurity)
+[Dogma Offensive Security Report](https://docs.google.com/document/d/1cQ05vCvQ7Gxd-UCuVKeRkljSwl2jMaKElb-pcOf4gZs/edit?usp=sharing/)
+
+[Presentation Slide Deck](https://docs.google.com/presentation/d/1GMmGXPB6MPp8cYpo7_xwgagSszbWLAPrpKVweNFzdWw/edit?usp=sharing/)
+
+[Github Repository for Script](https://github.com/benpodawiltz/OffensiveSecurity/)
 
 ### References:
-https://github.com/benpodawiltz/OffensiveSecurity 
+
 D3fend: https://d3fend.mitre.org/
 
 Att&ck: https://attack.mitre.org/
